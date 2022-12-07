@@ -709,3 +709,8 @@ metafile = true
 file = "mods/xtones.pw.toml"
 hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
 metafile = true
+
+[[files]]
+file = "prelaunch.bat.pw.toml"
+hash = "9ebdb3672507eee35f7eacb17178aa5960fdd19cfbc156ed384b09eaca6ee591"
+metafile = true
