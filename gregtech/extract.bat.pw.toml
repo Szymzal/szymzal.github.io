@@ -1,0 +1,9 @@
+name = "Config - client"
+filename = "extract.bat"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "daf177739284811446c035e464ad57877bb544ae"
+url = "https://onedrive.live.com/download?cid=471D148C36EBB935&resid=471D148C36EBB935%2123876&authkey=AALP87-VNj28G8Y"
+

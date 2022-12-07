@@ -1,0 +1,13 @@
+name = "Advanced Solar Materials"
+filename = "advsolars-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77315e433a877e89b134831e5c3ba02814674ff4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2675884
+project-id = 313141

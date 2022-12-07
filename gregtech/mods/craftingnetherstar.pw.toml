@@ -1,0 +1,13 @@
+name = "CraftingNetherStar"
+filename = "CraftingNetherStar 1.12.1 -1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a2bf7aca0ce6bf14b231d1f177f8ad5cd719dcf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2491542
+project-id = 279172
