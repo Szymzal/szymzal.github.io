@@ -1,6 +1,6 @@
 name = "Nomifactory (GTCEu Port) - Szymzal version"
 author = "Szymzal"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "258ecf60dbcc73c84c05a879d7235e81dcc3d58456ff68d0b59d260e20118134"
 
 [versions]
-forge = "14.23.5.2859"
+forge = "14.23.5.2860"
 minecraft = "1.12.2"
