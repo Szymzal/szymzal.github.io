@@ -526,11 +526,6 @@ hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
 metafile = true
 
 [[files]]
-file = "mods/optifine.pw.toml"
-hash = "0f9416dce9ebc15b4eaf683c779398e4df148f0dab987c1184add7ec3482ef65"
-metafile = true
-
-[[files]]
 file = "mods/p455w0rds-library.pw.toml"
 hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
 metafile = true
