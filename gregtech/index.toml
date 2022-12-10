@@ -271,11 +271,6 @@ hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
-metafile = true
-
-[[files]]
 file = "mods/dynamistics.pw.toml"
 hash = "a1e0410e71d61bcfdda1709ea3224e4082e8727dd1fa1784796e19c04e6b5de4"
 metafile = true
@@ -523,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "0f9416dce9ebc15b4eaf683c779398e4df148f0dab987c1184add7ec3482ef65"
 metafile = true
 
 [[files]]
