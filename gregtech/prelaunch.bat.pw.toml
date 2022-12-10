@@ -4,6 +4,6 @@ side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "dbf700d401dcf2fc5861dc47ed06a65c0158c6bf"
+hash = "7f585024b6e5111e0c5d43fee22970145d79194a"
 url = "https://onedrive.live.com/download?cid=471D148C36EBB935&resid=471D148C36EBB935%2123883&authkey=APQw3JfBh6S_51E"
 

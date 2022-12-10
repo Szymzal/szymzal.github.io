@@ -16,6 +16,11 @@ hash = "8609ca61cc37d7c16bc5acbedc0de4f15b050d99f012c0095f997454db22911b"
 metafile = true
 
 [[files]]
+file = "installOptiFine.pw.toml"
+hash = "5b3566f4e8d0579ed4ee751aefd9609f689e03bf6b9263a71f2ad7eaa675afd9"
+metafile = true
+
+[[files]]
 file = "log4j2.pw.toml"
 hash = "87e2d083994fc1a33ab9e11188041b555050f4087f77731e8246d44ccd2fd4c9"
 metafile = true
@@ -717,5 +722,5 @@ metafile = true
 
 [[files]]
 file = "prelaunch.bat.pw.toml"
-hash = "9ebdb3672507eee35f7eacb17178aa5960fdd19cfbc156ed384b09eaca6ee591"
+hash = "7204d736be301a8eef6acb29d7bf5f04070266ef30d6dc9136f7119e7504a9db"
 metafile = true
