@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config.pw.toml"
-hash = "9ceb1994ac85968357fb1b30040f8bb7b803f5eb07a1d7afb3c662dde627ac03"
+hash = "e9ddc1268dc5c5f2f65bc81a02edb2070ac27224ceb387830e178216b74d6a61"
 metafile = true
 
 [[files]]
@@ -717,5 +717,5 @@ metafile = true
 
 [[files]]
 file = "prelaunch.bat.pw.toml"
-hash = "fb6484fcf9d25ac18a589ed78e82c391e0ff37382e9315cab88427e542cf6de5"
+hash = "60cae30a4367001f6e66d5bd211d681d137556552891d6b0e7fb738c66d51033"
 metafile = true
