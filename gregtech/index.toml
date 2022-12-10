@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "extract.bat.pw.toml"
-hash = "3ca168c879a6b2d57f0f52edf72f496818418b0b23a4b6f2bf4ed1291c48f1fd"
+hash = "69f59a134694ff19acb5f8d847b597e11556e1b2dfbb3d66ab8ae9bf3275354c"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "installOptiFine.pw.toml"
-hash = "5b3566f4e8d0579ed4ee751aefd9609f689e03bf6b9263a71f2ad7eaa675afd9"
+hash = "f5cadda3218a9c528ebd8ccfdb569da1fc9292405773ab235d28b5dfb35c09bc"
 metafile = true
 
 [[files]]
@@ -717,5 +717,5 @@ metafile = true
 
 [[files]]
 file = "prelaunch.bat.pw.toml"
-hash = "7204d736be301a8eef6acb29d7bf5f04070266ef30d6dc9136f7119e7504a9db"
+hash = "fb6484fcf9d25ac18a589ed78e82c391e0ff37382e9315cab88427e542cf6de5"
 metafile = true
