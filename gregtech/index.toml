@@ -2,22 +2,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "commands.bat.pw.toml"
-hash = "480549a78f191e41d262fd924ddf14f250c24e5a95b7c17f53543af1a117fda4"
+hash = "1f9d65f7d4da6fb6f4451e8ac98cb08360cb4fc85c149c8657027031d506c8f6"
 metafile = true
 
 [[files]]
 file = "config.pw.toml"
-hash = "14bf726303c2a73ee41412238b1d09754b0634159b7abd7ec4bccc8caef1804a"
+hash = "e33ed1c26d01dbe0763e427f72d93c758e9fbb551e130389d0b21dbe4caccd76"
 metafile = true
 
 [[files]]
 file = "extract.sh.pw.toml"
-hash = "bd13cd59f173ad2a61c5bee0ff4813f6c535c3103962d77ae9e7eecbf4f8a98a"
+hash = "2210d749610a284b8a8b7bd1d49a6c104a7fdc23a59f64960602d9a715276e97"
 metafile = true
 
 [[files]]
 file = "log4j2.pw.toml"
-hash = "8bdc4d32cc4968d0a8550effa579e0a90e7d4003771941c2f0b857ffabcb9e1c"
+hash = "31502b474e2887ecb623a5445188ea9f753bb4c9f8ec1b63d68ff4f286632c15"
 metafile = true
 
 [[files]]
@@ -712,10 +712,10 @@ metafile = true
 
 [[files]]
 file = "packwiz.bat.pw.toml"
-hash = "59837fd03a722eb4f3f410525fef9ea6dbc00ddc5b93c32e1f260f47540bf326"
+hash = "d6db7acc94988d679043dc469592456e1344e1a6dbfc63a4f3e221ce67178ace"
 metafile = true
 
 [[files]]
 file = "prelaunch.bat.pw.toml"
-hash = "79377959ba3e3026e268f8eae1e10a448e82e08d175b6036022eeff4e8e4c6a0"
+hash = "4832dd65237f77d0fcc05f521e2e0175d0ed5300be6a6132672770e8f726052d"
 metafile = true
