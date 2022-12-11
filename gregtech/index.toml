@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "commands.bat.pw.toml"
-hash = "e92cb8db9e6db0c0ba6763a29d0d53502a7c6b24054e042de6af20b8be77a276"
+hash = "480549a78f191e41d262fd924ddf14f250c24e5a95b7c17f53543af1a117fda4"
 metafile = true
 
 [[files]]
