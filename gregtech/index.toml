@@ -1,28 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config.pw.toml"
-hash = "e9ddc1268dc5c5f2f65bc81a02edb2070ac27224ceb387830e178216b74d6a61"
+file = "commands.bat.pw.toml"
+hash = "e92cb8db9e6db0c0ba6763a29d0d53502a7c6b24054e042de6af20b8be77a276"
 metafile = true
 
 [[files]]
-file = "extract.bat.pw.toml"
-hash = "69f59a134694ff19acb5f8d847b597e11556e1b2dfbb3d66ab8ae9bf3275354c"
+file = "config.pw.toml"
+hash = "14bf726303c2a73ee41412238b1d09754b0634159b7abd7ec4bccc8caef1804a"
 metafile = true
 
 [[files]]
 file = "extract.sh.pw.toml"
-hash = "8609ca61cc37d7c16bc5acbedc0de4f15b050d99f012c0095f997454db22911b"
-metafile = true
-
-[[files]]
-file = "installOptiFine.pw.toml"
-hash = "f5cadda3218a9c528ebd8ccfdb569da1fc9292405773ab235d28b5dfb35c09bc"
+hash = "bd13cd59f173ad2a61c5bee0ff4813f6c535c3103962d77ae9e7eecbf4f8a98a"
 metafile = true
 
 [[files]]
 file = "log4j2.pw.toml"
-hash = "87e2d083994fc1a33ab9e11188041b555050f4087f77731e8246d44ccd2fd4c9"
+hash = "8bdc4d32cc4968d0a8550effa579e0a90e7d4003771941c2f0b857ffabcb9e1c"
 metafile = true
 
 [[files]]
@@ -716,6 +711,11 @@ hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
 metafile = true
 
 [[files]]
+file = "packwiz.bat.pw.toml"
+hash = "23420506efc3ad97f84a6036569af2e1954a556f6c61ce4dbb11e40af01fc01c"
+metafile = true
+
+[[files]]
 file = "prelaunch.bat.pw.toml"
-hash = "60cae30a4367001f6e66d5bd211d681d137556552891d6b0e7fb738c66d51033"
+hash = "79377959ba3e3026e268f8eae1e10a448e82e08d175b6036022eeff4e8e4c6a0"
 metafile = true
