@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "extract.sh.pw.toml"
-hash = "2210d749610a284b8a8b7bd1d49a6c104a7fdc23a59f64960602d9a715276e97"
+hash = "0be62fba25c52102ee6b77efcc7bce37c5f4c2a5b5462f8a43954326d2f3b59a"
 metafile = true
 
 [[files]]

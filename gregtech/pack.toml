@@ -1,12 +1,12 @@
 name = "Nomifactory (GTCEu Port) - Szymzal version"
 author = "Szymzal"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e8cce80ad8dfc109140933bc95bdae7cb6a2ac424ad42a7cb598fd7d78a124b1"
+hash = "4e017aee70c2dceeb2b4861c1f88c7328760a2cb4c59c686a71000aabf252354"
 
 [versions]
 forge = "14.23.5.2860"
