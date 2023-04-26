@@ -1,8 +1,9 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://szymzal.github.io/'
+languageCode = 'pl-pl'
+title = "Szymzal's second brain"
 theme = 'terminal'
 paginate = 5
+defaultContentLanguage = "pl"
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -31,8 +32,8 @@ paginate = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = true
   enableGitInfo = true
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -63,6 +64,33 @@ paginate = 5
   site = ""
 
 [languages]
+  [languages.pl]
+    languageName = "Polski"
+    title = "Biblioteka Szymzala"
+    subtitle = "'Second Brain'"
+    owner = "Szymzal"
+    keywords = ""
+    copyright = ""
+    menuMore = "Pokaż więcej"
+    readMore = "Czytaj więcej"
+    readOtherPosts = "Czytaj więcej postów"
+    newerPosts = "Nowsze posty"
+    olderPosts = "Starsze posty"
+    missingContentMessage = "Nie znaleziono postu..."
+    missingBackButtonLabel = "Powrót do strony głównej"
+    minuteReadingTime = "minut czytania"
+    words = "słowa"
+
+    [languages.pl.params.logo]
+      logoText = "Szymzal"
+      logoHomeLink = "/"
+
+    [languages.pl.menu]
+      [[languages.pl.menu.main]]
+        identifier = "o-tym"
+        name = "O tym"
+        url = "/about"
+
   [languages.en]
     languageName = "English"
     title = "Terminal"
@@ -89,7 +117,3 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"

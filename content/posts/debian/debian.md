@@ -1,6 +1,7 @@
 +++
 title = "Debian"
-date = "2023-04-25T19:42:44+02:00"
+date = "2023-04-25"
+lastmod = "2023-04-25"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
@@ -17,4 +18,4 @@ Debian jest jedną z dystrybucji linuxa, na którym jest przykdładowo oparta dy
 [Instalacja debiana](../instalowanie-debiana)
 
 Debian nie przychodzi z pakietem `sudo` co dla niektórych może być niezbędne do pracy
-[Tutaj jak zainstalować pakiet sudo](../../packets/sudo)
+[Tutaj jak zainstalować pakiet sudo](/posts/packets/sudo)

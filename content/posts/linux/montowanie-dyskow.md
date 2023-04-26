@@ -1,12 +1,13 @@
 +++
-title = "Mounting Disks"
-date = "2023-04-25T20:10:46+02:00"
+title = "Montowanie dysków"
+date = "2023-04-25"
+lastmod = "2023-04-26"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["linux", "disks", "filesystem", "mounting"]
 keywords = ["linux", "disks", "filesystem", "mounting"]
-description = "Trying to understand how mounting works"
+description = "Jak działa montowanie dysków"
 showFullContent = false
 readingTime = false
 hideComments = false

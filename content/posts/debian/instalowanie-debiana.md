@@ -1,6 +1,7 @@
 +++
 title = "Instalowanie Debiana"
-date = "2023-04-25T19:20:00+02:00"
+date = "2023-04-25"
+lastmod = "2023-04-25"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
