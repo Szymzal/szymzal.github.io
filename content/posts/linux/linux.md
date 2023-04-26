@@ -19,4 +19,6 @@ Dziś jest to bardzo często używane jądro przez dystrybucje linuxa takie jak:
 - Ubuntu
 - Arch linux
 
-[Jak monotować dyski w linuxie](/posts/linux/montowanie-dyskow)
+Inne posty:
+- [Jak monotować dyski w linuxie](/posts/linux/montowanie-dyskow)
+- [Partycje w linuxie](/posts/linux/partycje)
