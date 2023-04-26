@@ -58,10 +58,8 @@ Są to dyskietki.
 
 Partycje są oznaczane liczbą na koniec nazwy urządzenia. 
 Więc przykładowo jak mamy 2 dysk SSD, który ma 2 partycje to można je znaleźć pod nazwami:
-- `sdb0` -> pierwsza partycja
-- `sdb1` -> druga partycja
-
-Warto zauważyć, że numery partycji zaczynają się od 0!
+- `sdb1` -> pierwsza partycja
+- `sdb2` -> druga partycja
 
 # Montowanie płyty DVD
 

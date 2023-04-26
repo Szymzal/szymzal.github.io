@@ -1,7 +1,7 @@
 +++
 title = "Debian"
 date = "2023-04-25"
-lastmod = "2023-04-25"
+lastmod = "2023-04-26"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
@@ -19,3 +19,5 @@ Debian jest jedną z dystrybucji linuxa, na którym jest przykdładowo oparta dy
 
 Debian nie przychodzi z pakietem `sudo` co dla niektórych może być niezbędne do pracy
 [Tutaj jak zainstalować pakiet sudo](/posts/packets/sudo)
+
+Aby wyłączyć lub uruchomić ponownie komputer wymagane są uprawnienia root.
