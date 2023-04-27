@@ -1,7 +1,7 @@
 +++
 title = "Montowanie dysków"
 date = "2023-04-25"
-lastmod = "2023-04-26"
+lastmod = "2023-04-27"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
@@ -87,6 +87,8 @@ Aby zapisać należy podać parę danych:
 - dump -> W większości wypadków wpisuje się tu `0`.
 - pass -> kolejność w której spawdzać systemy plików podczas bootowania komputera. Przykładowo: 1 -> będzie sprawdzany jako pierwszy, 2 -> jako drugi, itp. Wyjątkiem jest 0, który oznacza, żeby tego dysku nie sprawdzać przy procesie bootowania.
 
+Aby sprawdzić czy automatyzacja działa poprawnie można albo uruchomić ponownie komputer lub wykonać polecenie `mount -a`.
+
 ### Opcje
 
 Lista opcji:
@@ -107,6 +109,12 @@ Jak można było zauważyć wcześniej. Używanie pełnej komendy `mount` wymaga
 Więc jak korzystać z np. `noauto` lub `user`?
 
 Wystarczy wtedy podać tylko mount point, np. `mount /cdrom`.
+
+# RAID
+
+Przy RAID-ie nie montuje się pojedynczej partycji. W takiej sytuacji montuje się tzw. "plik RAID-u" (np. /dev/md2).
+
+Więcej informacji jak to zrobić: [RAID](/posts/linux/raid)
 
 # Źródła
 - https://www.debian.org/doc/manuals/debian-tutorial/ch-disks.html

@@ -1,7 +1,7 @@
 +++
 title = "Partycje"
 date = "2023-04-26"
-lastmod = "2023-04-26"
+lastmod = "2023-04-27"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
@@ -35,6 +35,8 @@ Wyświetli się miejsce do podania komendy. Możemy wpisać `m`, aby wyświetli�
 
 Używając polecenia `n`, możemy stworzyć partycję wybierając numer partycji, pierwszy sektor oraz ostatni sektor.
 Kiedy zakończymy modyfikację dysku, możemy zapisać zmiany za pomocą polecenia `w`.
+
+Jest także bardziej graficzna wersja `fdisk` nazwana `cfdisk`.
 
 # Źródła
 - https://phoenixnap.com/kb/linux-format-disk

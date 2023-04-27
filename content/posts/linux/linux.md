@@ -1,7 +1,7 @@
 +++
 title = "Linux"
 date = "2023-04-26"
-lastmod = "2023-04-26"
+lastmod = "2023-04-27"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
@@ -22,3 +22,4 @@ Dziś jest to bardzo często używane jądro przez dystrybucje linuxa takie jak:
 Inne posty:
 - [Jak monotować dyski w linuxie](/posts/linux/montowanie-dyskow)
 - [Partycje w linuxie](/posts/linux/partycje)
+- [RAID](/posts/linux/raid)
