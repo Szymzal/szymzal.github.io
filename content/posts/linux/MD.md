@@ -1,7 +1,7 @@
 +++
-title = "RAID"
+title = "MD"
 date = "2023-04-27"
-lastmod = "2023-04-27"
+lastmod = "2023-05-03"
 author = "Szymzal"
 authorTwitter = "" #do not include @
 cover = ""
@@ -19,8 +19,7 @@ Wykorzystuje się to tego program `mdadm`.
 Przykładowo w Debianie nie ma zainstalowanego fabrycznie tego programu.
 Dodatkowo jeśli nie można go znaleźć (Debian) należy dodać repozytorium `bullseye` do apt.
 
-Program ten tworzy urządzenia *MD* (Multiple Devices), czyli *Software RAID*.
-Jest to co innego niż stworzenie RAID-a w BIOS/UEFI naszej płyty głównej.
+Program ten tworzy urządzenia *MD* (Multiple Devices).
 
 W wersji 4.1-11 programu obsługuje:
 - RAID 0
@@ -38,7 +37,7 @@ Z czego 3 ostatnie to nie tak naprawdę mechanizmy *Software RAID*.
 # Użytkowanie
 
 Obsługa komendy wygląda tak:
-`mdadm <tryb> <urządzenie RAID> <opcje> <urządzenia>`, gdzie:
+`mdadm <tryb> <urządzenie MD> <opcje> <urządzenia>`, gdzie:
 - `<tryb>` -> [Tryby](#tryby)
 - `<urządzenie RAID>` -> Plik urządzenia zapisywany w folderze `/dev`. Nazywany jest najczęściej `mdx`, gdzie "x" jest następnym numerem, który jest dostępny (np. `/dev/md2`).
 - `<opcje>` -> [Opcje](#opcje)
