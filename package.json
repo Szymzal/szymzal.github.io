@@ -1,0 +1,19 @@
+{
+  "name": "szymzal.github.io",
+  "version": "1.0.0",
+  "description": "Second brain",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szymzal/szymzal.github.io.git"
+  },
+  "author": "Szymzal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Szymzal/szymzal.github.io/issues"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "string": "^3.3.3",
+    "toml": "^3.0.0"
+  }
+}
