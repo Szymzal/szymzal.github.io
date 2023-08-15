@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>filesystem on Biblioteka Szymzala</title>
+    <link>https://szymzal.github.io/tags/filesystem/</link>
+    <description>Recent content in filesystem on Biblioteka Szymzala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szymzal.github.io/tags/filesystem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montowanie dysków</title>
+      <link>https://szymzal.github.io/posts/linux/montowanie-dyskow/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/montowanie-dyskow/</guid>
+      <description>Teoria System plików to ogólnie mówiąc sposób organizowania plików na dysku i zaczyna się od /.
+W linuxie nie ma zbędnego łączenia folderu z fizycznym urządzeniem (np. dyskiem). Gdzie na przykład w Windowsie każdy dysk zaczyna się literą (np. D:\) Jednak, każdy dysk ma w sobie zazwyczaj więcej niż jedny system plików. Aby mieć możliwość dostać się do nich przypisuje się folder do innego systemu plików. Taki folder, który ma w sobie inny system plików nazywany jest mount point.</description>
+    </item>
+    
+  </channel>
+</rss>

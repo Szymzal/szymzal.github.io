@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAID on Biblioteka Szymzala</title>
+    <link>https://szymzal.github.io/tags/raid/</link>
+    <description>Recent content in RAID on Biblioteka Szymzala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szymzal.github.io/tags/raid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MD</title>
+      <link>https://szymzal.github.io/posts/linux/md/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/md/</guid>
+      <description>Program Wykorzystuje się to tego program mdadm. Przykładowo w Debianie nie ma zainstalowanego fabrycznie tego programu. Dodatkowo jeśli nie można go znaleźć (Debian) należy dodać repozytorium bullseye do apt.
+Program ten tworzy urządzenia MD (Multiple Devices).
+W wersji 4.1-11 programu obsługuje:
+RAID 0 RAID 1 RAID 4 RAID 5 RAID 6 RAID 10 MULTIPATH FAULTY CONTAINER Z czego 3 ostatnie to nie tak naprawdę mechanizmy Software RAID.
+Użytkowanie Obsługa komendy wygląda tak: mdadm &amp;lt;tryb&amp;gt; &amp;lt;urządzenie MD&amp;gt; &amp;lt;opcje&amp;gt; &amp;lt;urządzenia&amp;gt;, gdzie:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disks on Biblioteka Szymzala</title>
+    <link>https://szymzal.github.io/tags/disks/</link>
+    <description>Recent content in disks on Biblioteka Szymzala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szymzal.github.io/tags/disks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raid</title>
+      <link>https://szymzal.github.io/posts/raid/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/raid/</guid>
+      <description>Podstawy RAID (Redundant Array of Independent Disks) sposób w jaki jest wykorzystywane miejsce na różnych dyskach. Pozwala na współprace dysków między sobą, żeby zwiększyć bezpieczeństwo plików kiedy przykładowo jeden z dysków się uszkodził.
+RAID występuje w kilku wersjach, gdzie każda z nich jest wykorzystywana do innych celów:
+RAID 0 -&amp;gt; Wszystko zostaje dzielone na proporcjonalne porcje, które są przechowywane na różnych dyskach. Dzięki temu prędkość zapisu często się zwiększa. Jednak w przypadku awarii jednego z dysków w RAID-dzie wsyszystkie dane są utracone.</description>
+    </item>
+    
+    <item>
+      <title>MD</title>
+      <link>https://szymzal.github.io/posts/linux/md/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/md/</guid>
+      <description>Program Wykorzystuje się to tego program mdadm. Przykładowo w Debianie nie ma zainstalowanego fabrycznie tego programu. Dodatkowo jeśli nie można go znaleźć (Debian) należy dodać repozytorium bullseye do apt.
+Program ten tworzy urządzenia MD (Multiple Devices).
+W wersji 4.1-11 programu obsługuje:
+RAID 0 RAID 1 RAID 4 RAID 5 RAID 6 RAID 10 MULTIPATH FAULTY CONTAINER Z czego 3 ostatnie to nie tak naprawdę mechanizmy Software RAID.
+Użytkowanie Obsługa komendy wygląda tak: mdadm &amp;lt;tryb&amp;gt; &amp;lt;urządzenie MD&amp;gt; &amp;lt;opcje&amp;gt; &amp;lt;urządzenia&amp;gt;, gdzie:</description>
+    </item>
+    
+    <item>
+      <title>Montowanie dysków</title>
+      <link>https://szymzal.github.io/posts/linux/montowanie-dyskow/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/montowanie-dyskow/</guid>
+      <description>Teoria System plików to ogólnie mówiąc sposób organizowania plików na dysku i zaczyna się od /.
+W linuxie nie ma zbędnego łączenia folderu z fizycznym urządzeniem (np. dyskiem). Gdzie na przykład w Windowsie każdy dysk zaczyna się literą (np. D:\) Jednak, każdy dysk ma w sobie zazwyczaj więcej niż jedny system plików. Aby mieć możliwość dostać się do nich przypisuje się folder do innego systemu plików. Taki folder, który ma w sobie inny system plików nazywany jest mount point.</description>
+    </item>
+    
+  </channel>
+</rss>

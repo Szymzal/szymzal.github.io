@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Biblioteka Szymzala</title>
+    <link>https://szymzal.github.io/posts/</link>
+    <description>Recent content in Posts on Biblioteka Szymzala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szymzal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Komputer</title>
+      <link>https://szymzal.github.io/posts/computer/computer/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/computer/computer/</guid>
+      <description>Komputer Komputer jest układem cyfrowym wykorzystywanym do określonych celów. Głównym elementem systemu komputerowego jest (mikroprocesor)[/posts/computer/microprocessor]. Elementy, które także występują w systemie komputerowym to:
+(Układ I/O)[/posts/computer/io] (Pamięć ROM)[/posts/computer/rom] (Pamięć RAM)[/posts/computer/ram] (Płyta główna)[/posts/computer/motherboard] System komputerowy pracuje z kilkoma magistralami:
+(Adresowa)[/posts/computer/addressbus] (Dane)[/posts/computer/databus] (Sterująca)[/posts/computer/controlbus] </description>
+    </item>
+    
+    <item>
+      <title>Mikroprocesor</title>
+      <link>https://szymzal.github.io/posts/computer/microprocessor/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/computer/microprocessor/</guid>
+      <description>Mikroprocesor jest głównym elementem (systemu komputerowego)[/posts/computer/computer] wykonującym polecenia Procesor wykonuje polecenia zwane także instrukcjami maszynowymi lub rozkazy.
+Każdy procesor ma w sobie zdefiniowane rozkazy, które potrafi wykonać. Nazywane listą rozkazową.</description>
+    </item>
+    
+    <item>
+      <title>Raid</title>
+      <link>https://szymzal.github.io/posts/raid/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/raid/</guid>
+      <description>Podstawy RAID (Redundant Array of Independent Disks) sposób w jaki jest wykorzystywane miejsce na różnych dyskach. Pozwala na współprace dysków między sobą, żeby zwiększyć bezpieczeństwo plików kiedy przykładowo jeden z dysków się uszkodził.
+RAID występuje w kilku wersjach, gdzie każda z nich jest wykorzystywana do innych celów:
+RAID 0 -&amp;gt; Wszystko zostaje dzielone na proporcjonalne porcje, które są przechowywane na różnych dyskach. Dzięki temu prędkość zapisu często się zwiększa. Jednak w przypadku awarii jednego z dysków w RAID-dzie wsyszystkie dane są utracone.</description>
+    </item>
+    
+    <item>
+      <title>MD</title>
+      <link>https://szymzal.github.io/posts/linux/md/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/md/</guid>
+      <description>Program Wykorzystuje się to tego program mdadm. Przykładowo w Debianie nie ma zainstalowanego fabrycznie tego programu. Dodatkowo jeśli nie można go znaleźć (Debian) należy dodać repozytorium bullseye do apt.
+Program ten tworzy urządzenia MD (Multiple Devices).
+W wersji 4.1-11 programu obsługuje:
+RAID 0 RAID 1 RAID 4 RAID 5 RAID 6 RAID 10 MULTIPATH FAULTY CONTAINER Z czego 3 ostatnie to nie tak naprawdę mechanizmy Software RAID.
+Użytkowanie Obsługa komendy wygląda tak: mdadm &amp;lt;tryb&amp;gt; &amp;lt;urządzenie MD&amp;gt; &amp;lt;opcje&amp;gt; &amp;lt;urządzenia&amp;gt;, gdzie:</description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://szymzal.github.io/posts/linux/linux/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/linux/</guid>
+      <description>Linux jest jądrem systemu operacyjnego wywodzącego się z UNIX. Dziś jest to bardzo często używane jądro przez dystrybucje linuxa takie jak:
+Debian Ubuntu Arch linux Inne posty:
+Jak monotować dyski w linuxie Partycje w linuxie RAID </description>
+    </item>
+    
+    <item>
+      <title>Partycje</title>
+      <link>https://szymzal.github.io/posts/linux/partycje/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/partycje/</guid>
+      <description>Przeglądanie partycji Do tego używana jest komenda lsblk. Wyświetla ono wszytkie dyski podłączone do komputera wraz z CD i DVD. Wyświetla wielkość, nazwę, typ oraz &amp;ldquo;mount point&amp;rdquo; (jeśli występuje).
+Formatowanie partycji Do tego używana jest komenda mkfs. Komenda ta wymaga uprawnień root. Użytkowanie komendy wygląda tak: mkfs -t &amp;lt;system plików&amp;gt; &amp;lt;partycja&amp;gt;, gdzie &amp;lt;system plików&amp;gt; zamieniamy na np. ext4, ntfs, vfat, itp., a &amp;lt;partycja&amp;gt; na ścieszkę do partycji, np. /dev/sdb1.
+Tworzenie partycji Używa się to tego komendy fdisk.</description>
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>https://szymzal.github.io/posts/debian/debian/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/debian/debian/</guid>
+      <description>Debian jest jedną z dystrybucji linuxa, na którym jest przykdładowo oparta dystrybucja Ubuntu.
+Instalacja debiana
+Debian nie przychodzi z pakietem sudo co dla niektórych może być niezbędne do pracy Tutaj jak zainstalować pakiet sudo
+Aby wyłączyć lub uruchomić ponownie komputer wymagane są uprawnienia root.</description>
+    </item>
+    
+    <item>
+      <title>Instalowanie Debiana</title>
+      <link>https://szymzal.github.io/posts/debian/instalowanie-debiana/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/debian/instalowanie-debiana/</guid>
+      <description>Instalacja Najlepiej wybrać instalację bez insterfejsu graficznego.
+Wybrać język, lokalizację oraz układ klawiatury Wybrać hostname (nazwa komputera) Nazwa domenowa (Dla sieci domowej można sobie wymyślić, jednakże wszystkie komputery w sieci powinny mieć takie same) Hasło dla roota Pełna nazwa użytkownika Hasło użytkownika Wybrać strefę czasową Stworzyć partycje na dysku (Można automatycznie lub ręcznie) Wybrać schemat partycjonizowania (Jest takie słowo?) (Najlepiej wybrać żeby wszystkie pliki były zapisywane w jednej partycji) Zakończyć i zatwierdzić zmiany na dysku Wystkoczy zapytanie czy skanować medium instalacyjne do instalowania pakietów (prawdopodobnie) Najlepiej zatwierdzić, żeby dodać &amp;ldquo;network mirror&amp;rdquo; i wybrać odpowiedni kraj i &amp;ldquo;archive mirror&amp;rdquo; Wybrać co zainstalować (Spacją się &amp;ldquo;odklikuje&amp;rdquo;, a enterem zatwierdza) Po instalacji Co prawda jest to już pełni funkcjonalny system, można zainstalować dodatkowe pakiety używając apt.</description>
+    </item>
+    
+    <item>
+      <title>Montowanie dysków</title>
+      <link>https://szymzal.github.io/posts/linux/montowanie-dyskow/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/linux/montowanie-dyskow/</guid>
+      <description>Teoria System plików to ogólnie mówiąc sposób organizowania plików na dysku i zaczyna się od /.
+W linuxie nie ma zbędnego łączenia folderu z fizycznym urządzeniem (np. dyskiem). Gdzie na przykład w Windowsie każdy dysk zaczyna się literą (np. D:\) Jednak, każdy dysk ma w sobie zazwyczaj więcej niż jedny system plików. Aby mieć możliwość dostać się do nich przypisuje się folder do innego systemu plików. Taki folder, który ma w sobie inny system plików nazywany jest mount point.</description>
+    </item>
+    
+    <item>
+      <title>Pakiet Sudo</title>
+      <link>https://szymzal.github.io/posts/packets/sudo/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/packets/sudo/</guid>
+      <description>Sudo jest pakietem, który umożliwia na używanie uprawnień konta root za pomocą konta administratorskiego bez znania hasła do konta root.
+Pakiet ten jest bardzo powszechny i bardzo często używany w różnych dystrybucjach linuxa.
+Instalacja Instalowanie tego pakietu jest bardzo prosty:
+Dystrybucje oparte na Debian (Ubuntu):
+apt install sudo Konfiguracja Po zainstalowaniu pakietu należy dodać użytkowników do grupy sudo jeśli chcemy umożliwić im korzystanie z uprawnień roota.
+Nazwa grupy różni się w zależności od dystrybucji.</description>
+    </item>
+    
+  </channel>
+</rss>

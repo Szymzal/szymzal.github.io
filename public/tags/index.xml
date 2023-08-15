@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Biblioteka Szymzala</title>
+    <link>https://szymzal.github.io/tags/</link>
+    <description>Recent content in Tags on Biblioteka Szymzala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szymzal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>computer</title>
+      <link>https://szymzal.github.io/tags/computer/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>processor</title>
+      <link>https://szymzal.github.io/tags/processor/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disks</title>
+      <link>https://szymzal.github.io/tags/disks/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/disks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://szymzal.github.io/tags/linux/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAID</title>
+      <link>https://szymzal.github.io/tags/raid/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/raid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debian</title>
+      <link>https://szymzal.github.io/tags/debian/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distro</title>
+      <link>https://szymzal.github.io/tags/distro/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/distro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>filesystem</title>
+      <link>https://szymzal.github.io/tags/filesystem/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/filesystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instalation</title>
+      <link>https://szymzal.github.io/tags/instalation/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/instalation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mounting</title>
+      <link>https://szymzal.github.io/tags/mounting/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/mounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sudo</title>
+      <link>https://szymzal.github.io/tags/sudo/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/tags/sudo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

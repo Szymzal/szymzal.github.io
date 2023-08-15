@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>instalation on Biblioteka Szymzala</title>
+    <link>https://szymzal.github.io/tags/instalation/</link>
+    <description>Recent content in instalation on Biblioteka Szymzala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szymzal.github.io/tags/instalation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalowanie Debiana</title>
+      <link>https://szymzal.github.io/posts/debian/instalowanie-debiana/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/debian/instalowanie-debiana/</guid>
+      <description>Instalacja Najlepiej wybrać instalację bez insterfejsu graficznego.
+Wybrać język, lokalizację oraz układ klawiatury Wybrać hostname (nazwa komputera) Nazwa domenowa (Dla sieci domowej można sobie wymyślić, jednakże wszystkie komputery w sieci powinny mieć takie same) Hasło dla roota Pełna nazwa użytkownika Hasło użytkownika Wybrać strefę czasową Stworzyć partycje na dysku (Można automatycznie lub ręcznie) Wybrać schemat partycjonizowania (Jest takie słowo?) (Najlepiej wybrać żeby wszystkie pliki były zapisywane w jednej partycji) Zakończyć i zatwierdzić zmiany na dysku Wystkoczy zapytanie czy skanować medium instalacyjne do instalowania pakietów (prawdopodobnie) Najlepiej zatwierdzić, żeby dodać &amp;ldquo;network mirror&amp;rdquo; i wybrać odpowiedni kraj i &amp;ldquo;archive mirror&amp;rdquo; Wybrać co zainstalować (Spacją się &amp;ldquo;odklikuje&amp;rdquo;, a enterem zatwierdza) Po instalacji Co prawda jest to już pełni funkcjonalny system, można zainstalować dodatkowe pakiety używając apt.</description>
+    </item>
+    
+  </channel>
+</rss>

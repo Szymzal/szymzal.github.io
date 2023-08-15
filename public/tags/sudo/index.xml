@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sudo on Biblioteka Szymzala</title>
+    <link>https://szymzal.github.io/tags/sudo/</link>
+    <description>Recent content in sudo on Biblioteka Szymzala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://szymzal.github.io/tags/sudo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pakiet Sudo</title>
+      <link>https://szymzal.github.io/posts/packets/sudo/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://szymzal.github.io/posts/packets/sudo/</guid>
+      <description>Sudo jest pakietem, który umożliwia na używanie uprawnień konta root za pomocą konta administratorskiego bez znania hasła do konta root.
+Pakiet ten jest bardzo powszechny i bardzo często używany w różnych dystrybucjach linuxa.
+Instalacja Instalowanie tego pakietu jest bardzo prosty:
+Dystrybucje oparte na Debian (Ubuntu):
+apt install sudo Konfiguracja Po zainstalowaniu pakietu należy dodać użytkowników do grupy sudo jeśli chcemy umożliwić im korzystanie z uprawnień roota.
+Nazwa grupy różni się w zależności od dystrybucji.</description>
+    </item>
+    
+  </channel>
+</rss>
