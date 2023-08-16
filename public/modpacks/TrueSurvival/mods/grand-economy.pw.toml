@@ -1,0 +1,13 @@
+name = "Grand Economy"
+filename = "GrandEconomy-1.12.2-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95b9b6df85da9a997d149aa2dc730c032fd6fd22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3172004
+project-id = 312141

@@ -1,0 +1,13 @@
+name = "Oxygen: Teleportation"
+filename = "oxygen-teleportation-1.12.2-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "151b9a347758217649bba5726e677e3d23e998a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2974821
+project-id = 318417

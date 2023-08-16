@@ -1,0 +1,13 @@
+name = "Oxygen: Player Interaction"
+filename = "oxygen-player-interaction-1.12.2-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b099d4ec7a036d9842e773edf86a41bcd784816"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2974812
+project-id = 328247

@@ -1,0 +1,13 @@
+name = "Oxygen Core"
+filename = "oxygen-core-1.12.2-0.11.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f7557888eb94bb7a822bfe90690dea702926066"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2985978
+project-id = 318414

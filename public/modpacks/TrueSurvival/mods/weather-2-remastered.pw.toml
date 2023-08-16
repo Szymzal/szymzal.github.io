@@ -1,0 +1,13 @@
+name = "Weather 2 - Remastered"
+filename = "Weather2Remastered-1.12.2-2.8.5.7-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b567e165b5709c01064dd03bea1370c38ed43338"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4547014
+project-id = 695602

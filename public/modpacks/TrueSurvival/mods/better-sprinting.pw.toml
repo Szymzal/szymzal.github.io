@@ -1,0 +1,13 @@
+name = "Better Sprinting"
+filename = "BetterSprinting-1.12.2-v3.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e05ecab7467a902f4ce768ba5b6a0ba3d20d51a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2742508
+project-id = 227409

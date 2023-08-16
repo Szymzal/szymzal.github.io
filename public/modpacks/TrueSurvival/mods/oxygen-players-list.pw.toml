@@ -1,0 +1,13 @@
+name = "Oxygen: Players List"
+filename = "oxygen-players-list-1.12.2-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cb85059eb6a9a99161be5c9aed07e0f52dbe807"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2974814
+project-id = 328244

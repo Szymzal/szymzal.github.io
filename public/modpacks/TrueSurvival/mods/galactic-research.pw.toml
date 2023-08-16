@@ -1,0 +1,13 @@
+name = "Galactic Research"
+filename = "GalacticResearch-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea6f072ff41d344032b99c513712d759a698f175"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4527404
+project-id = 822103
