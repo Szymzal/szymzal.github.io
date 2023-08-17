@@ -1,0 +1,3 @@
+[submodule "public/modpacks"]
+	path = public/modpacks
+	url = git@github.com:Szymzal/modpacks.git
