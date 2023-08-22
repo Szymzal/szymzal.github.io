@@ -1,46 +1,19 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Topics from '../components/Topics.astro';
+import Topic from '../components/Topic.astro';
 ---
 
 <Layout title="Welcome to Szymzal's Website">
 	<main>
 		<h1>Welcome to <span class="text-gradient">Szymzal's Website</span></h1>
-        <div class="topics">
-            <div class="topic">
-                <a href="/modpacks">
-                    <div class="button">
-                        <h2>Modpacks</h2>
-                    </div>
-                </a>
-            </div>
-        </div>
+        <Topics>
+            <Topic topic="Modpacks" url="modpacks">
+        </Topics>
 	</main>
 </Layout>
 
 <style>
-	main {
-		margin: auto;
-		padding: 1rem;
-		width: 800px;
-		max-width: calc(100% - 2rem);
-		color: white;
-		font-size: 20px;
-		line-height: 1.6;
-	}
-
-	h1 {
-		font-size: 4rem;
-		font-weight: 700;
-		line-height: 1;
-		text-align: center;
-		margin-bottom: 1em;
-	}
-
-    a {
-        text-decoration: none;
-        color: white;
-    }
-
 	.text-gradient {
 		background-image: var(--accent-gradient);
 		-webkit-background-clip: text;
@@ -48,24 +21,4 @@ import Layout from '../layouts/Layout.astro';
 		background-size: 400%;
 		background-position: 0%;
 	}
-
-    .topics {
-        display: grid;
-        /* TODO: add 2 columns */
-        grid-template-columns: 1fr;
-        gap: 2rem;
-    }
-
-    .topic {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .button {
-        background-color: gray;
-        padding: 2rem;
-        padding-left: 6rem;
-        padding-right: 6rem;
-    }
 </style>

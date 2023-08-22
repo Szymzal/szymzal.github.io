@@ -1,0 +1,37 @@
+---
+interface Props {
+    topic: string,
+    url: string
+}
+
+const { topic, url } = Astro.props;
+const final_url = "/" + url;
+---
+
+<div class="topic">
+    <a href={final_url}>
+        <div class="button">
+            <h2>{topic}</h2>
+        </div>
+    </a>
+</div>
+
+<style>
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .topic {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .button {
+        background-color: gray;
+        padding: 2rem;
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+</style>
