@@ -7,6 +7,63 @@ const { frontmatter } = Astro.props;
 <Layout title={frontmatter.title}>
     <main>
         <h1>{frontmatter.title}</h1>
+        <div class="info">
+            <div class="infoblob version">
+                <h4>Version: {frontmatter.version}</h4>
+            </div>
+            <div class="infoblob status">
+                <h4>{frontmatter.status}</h4>
+            </div>
+        </div>
+        <div class="button-wrapper">
+            <a href={frontmatter.download_url}>
+                <div class="button">
+                    <h2>Download</h2>
+                </div>
+            </a>
+        </div>
         <slot>
     </main>
 </Layout>
+
+<style>
+    .button-wrapper {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button {
+        background-color: blueviolet;
+        display: flex;
+        border-radius: 1em;
+    }
+
+    .button > h2 {
+        margin: 1rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+
+    .info {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+    
+    .infoblob {
+        padding: 0.4rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        border-radius: 1em;
+        margin-right: 0.5rem;
+        margin-left: 0.5rem;
+    }
+    
+    .version {
+        background-color: gray;
+    }
+
+    .status {
+        background-color: green;
+    }
+</style>
