@@ -2,7 +2,7 @@
 layout: ../../layouts/ModpackLayout.astro
 title: 'HMMinecraft'
 version: '1.0.0'
-download_url: ''
+download_url: 'https://onedrive.live.com/download?resid=471D148C36EBB935%2131287&authkey=!AJawHWInqNBky8Y'
 status: 'Season 1: In planning'
 status_type: 'Orange'
 ---
