@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ModpackLayout.astro
 title: 'HMMinecraft'
-version: '1.0.1'
+version: '1.1.0'
 download_url: 'https://onedrive.live.com/download?resid=471D148C36EBB935%2131287&authkey=!AJawHWInqNBky8Y'
 status: 'Season 1: In planning'
 status_type: 'Orange'
@@ -12,6 +12,29 @@ status_type: 'Orange'
 - Mod Structory needs to be downloaded manually but everything else is automatically downloaded and managed
 
 ## Changelog
+
+### 1.1.0
+- Remove Universal Graves
+- Add Gravestones
+- Add Suplementaries
+- Add Mouse Wheelie
+- Add Bundles
+- Update Moonlight to 2.8.47
+- Update Fabric API to 0.90.0
+- Update Geckolib to 4.2.3
+- Update YungsApi to 4.0.2
+- Update AppleSkin to 2.5.1
+- Update BetterTrims to 2.0.1
+- Update Chat Heads to 0.10.22
+- Update Colorful Hearts to 4.0.1
+- Update Combatify to 1.1.8-rc6
+- Update EMI to 1.0.22
+- Update Falling Leaves to 1.15.4
+- Update Incendium to 5.3.2
+- Update Nullscape to 1.2.3
+- Update Structory to 1.3.3
+- Update Terralith to 2.4.7
+- Update Vinery to 1.4.5
 
 ### 1.0.1
 - Remove EarlyStage
