@@ -97,7 +97,6 @@ status_type: 'Orange'
 - DamageVignette
 - Create Slice & Dice
 - StackDeobfuscator
-- Universal Graves
 - BetterTrims
 - Better Clouds
 - No Chat Reports
@@ -105,3 +104,6 @@ status_type: 'Orange'
 - Enchancement
 - Simple Voice Chat
 - Disable Elytra
+- Gravestones
+- Suplementaries
+- Mouse Wheelie
