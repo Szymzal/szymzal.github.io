@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ModpackLayout.astro
 title: 'HMMinecraft'
-version: '1.1.0'
+version: '1.1.1'
 download_url: 'https://onedrive.live.com/download?resid=471D148C36EBB935%2131287&authkey=!AJawHWInqNBky8Y'
 status: 'Season 1: In planning'
 status_type: 'Orange'
@@ -12,6 +12,9 @@ status_type: 'Orange'
 - Mod Structory needs to be downloaded manually but everything else is automatically downloaded and managed
 
 ## Changelog
+
+### 1.1.1
+- Enable Carrot Mode in Spice Of Fabric
 
 ### 1.1.0
 - Remove Universal Graves
