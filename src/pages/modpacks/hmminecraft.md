@@ -75,7 +75,7 @@ status_type: 'Green'
 - Better Ping Display [Fabric]
 - EMI
 - EMI Loot
-- Create Fabric
+- Create Fabric Sodium Fix
 - Create: Steam 'n' Rails
 - Combatify
 - MixinTrace
@@ -120,3 +120,7 @@ status_type: 'Green'
 - Gravestones
 - Suplementaries
 - Mouse Wheelie
+- Better Bookshelves
+- AntiGhost
+- Nvidium
+- EasyWhitelist
